@@ -1,7 +1,5 @@
 # Evaluation of Student Adaptation in Online Learning Using SVM
 
-![Result](image/result.png)
-
 ## Introduction
 With the rise of online learning, especially during the pandemic, it has become essential to evaluate how well students adapt to this mode of education. The success of online learning heavily depends on various factors such as technology access, learning environment, and student readiness. This project aims to develop a predictive model to measure student adaptability to online learning, providing educational institutions and policymakers with insights into how well students cope with this system and identifying areas that need further improvement or support.
 
